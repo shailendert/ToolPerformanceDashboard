@@ -1,0 +1,23 @@
+[
+  {
+    "toolID": "T201",
+    "cycleTime": 29.5,
+    "errorRate": 0.02,
+    "usageHours": 180.1,
+    "timestamp": "2025-08-01"
+  },
+  {
+    "toolID": "T202",
+    "cycleTime": 33.2,
+    "errorRate": 0.01,
+    "usageHours": 125.6,
+    "timestamp": "2025-08-02"
+  },
+  {
+    "toolID": "T203",
+    "cycleTime": 28.1,
+    "errorRate": 0.03,
+    "usageHours": 140.0,
+    "timestamp": "2025-08-03"
+  }
+]
